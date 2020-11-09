@@ -3,7 +3,7 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 
 
 
-## [NLP](https://github.com/shenhuaze/AI-paper-reading-list/tree/master/nlp)
+## NLP
 
 | 标题                                                         | 备注         |
 | ------------------------------------------------------------ | ------------ |
@@ -12,13 +12,13 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Distributed Representations of Words and Phrases and their Compositionality | Word2vec     |
 | Neural Machine Translation by Jointly Learning to Align and Translate | Attention    |
 | Attention Is All You Need                                    | Transformers |
-| Deep contextualized word representations                     | Elmo         |
+| Deep contextualized word representations                     | ELMo         |
 | Improving Language Understanding by Generative Pre-Training  | GPT          |
 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT         |
 
 
 
-## [RecSys](https://github.com/shenhuaze/AI-paper-reading-list/tree/master/recsys)
+## RecSys
 
 | 标题                                                         | 备注    |
 | ------------------------------------------------------------ | ------- |
@@ -31,13 +31,13 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Learning Piece-wise Linear Models from Large Scale Data for Ad Click Prediction | LS-PLM  |
 | AutoRec: Autoencoders Meet Collaborative Filtering           | AutoRec |
 
-## [Chatbot](https://github.com/shenhuaze/AI-paper-reading-list/tree/master/chatbot)
+## Chatbot
 
 | 标题                                                         | 备注 |
 | ------------------------------------------------------------ | ---- |
 | Rasa: Open Source Language Understanding and Dialogue Management | Rasa |
 
-## [CV](https://github.com/shenhuaze/AI-paper-reading-list/tree/master/cv)
+## CV
 
 | 标题                                                         | 备注    |
 | ------------------------------------------------------------ | ------- |
