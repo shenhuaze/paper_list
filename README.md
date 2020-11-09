@@ -5,18 +5,16 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 
 ## NLP
 
-| 标题                                                         | 备注         |
-| ------------------------------------------------------------ | ------------ |
-| A Neural Probabilistic Language Model                        | NNLM         |
-| Efficient Estimation of Word Representations in Vector Space | Word2vec     |
-| Distributed Representations of Words and Phrases and their Compositionality | Word2vec     |
-| Neural Machine Translation by Jointly Learning to Align and Translate | Attention    |
-| Attention Is All You Need                                    | Transformers |
-| Deep contextualized word representations                     | ELMo         |
-| Improving Language Understanding by Generative Pre-Training  | GPT          |
-| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT         |
-
-
+| 标题                                                         | 备注        |
+| ------------------------------------------------------------ | ----------- |
+| A Neural Probabilistic Language Model                        | NNLM        |
+| Efficient Estimation of Word Representations in Vector Space | Word2vec    |
+| Distributed Representations of Words and Phrases and their Compositionality | Word2vec    |
+| Neural Machine Translation by Jointly Learning to Align and Translate | Attention   |
+| Attention Is All You Need                                    | Transformer |
+| Deep contextualized word representations                     | ELMo        |
+| Improving Language Understanding by Generative Pre-Training  | GPT         |
+| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT        |
 
 ## RecSys
 
