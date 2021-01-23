@@ -5,31 +5,31 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 
 ## NLP
 
-| 标题                                                         | 备注                   |
-| ------------------------------------------------------------ | ---------------------- |
-| A Neural Probabilistic Language Model                        | NNLM                   |
-| Efficient Estimation of Word Representations in Vector Space | Word2vec               |
-| Distributed Representations of Words and Phrases and their Compositionality | Word2vec               |
-| Neural Machine Translation by Jointly Learning to Align and Translate | Attention              |
-| Attention Is All You Need                                    | Transformer            |
-| Deep contextualized word representations                     | ELMo                   |
-| Improving Language Understanding by Generative Pre-Training  | GPT                    |
-| BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT                   |
-| RoBERTa - A Robustly Optimized BERT Pretraining Approach     | RoBERTa                |
-| ALBERT - A Lite BERT for Self-supervised Learning of Language Representations | ALBERT                 |
-| ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators | ELECTRA                |
-| ERNIE - Enhanced Representation through Knowledge Integration | 百度ERNIE              |
-| ERNIE 2.0 - A Continual Pre-training Framework for Language Understanding | 百度ERNIE 2.0          |
-| ERNIE-GEN - An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation | 百度ERNIE-GEN          |
-| ERNIE - Enhanced Language Representation with Informative Entities | 清华ERNIE              |
-| Multi-Task Deep Neural Networks for Natural Language Understanding | MT-DNN                 |
-| NEZHA - Neural Contextualized Representation for Chinese Language Understanding | 华为NEZHA              |
-| Pre-Training with Whole Word Masking for Chinese BERT        | 哈工大Chinese-bert-wwm |
-| Revisiting Pre-Trained Models for Chinese Natural Language Processing | 哈工大MacBERT          |
-| SpanBERT - Improving Pre-training by Representing and Predicting Spans | SpanBERT               |
-| Don’t Stop Pretraining - Adapt Language Models to Domains and Tasks | 继续预训练             |
-| How to Fine-Tune BERT for Text Classification?               | 文本分类微调           |
-| Train No Evil - Selective Masking for Task-Guided Pre-Training | 继续预训练             |
+| 标题                                                         | 备注                 |
+| ------------------------------------------------------------ | -------------------- |
+| A Neural Probabilistic Language Model                        | NNLM                 |
+| Efficient Estimation of Word Representations in Vector Space | Word2vec             |
+| Distributed Representations of Words and Phrases and their Compositionality | Word2vec             |
+| Neural Machine Translation by Jointly Learning to Align and Translate | Attention            |
+| Attention Is All You Need                                    | Transformer          |
+| Deep contextualized word representations                     | ELMo                 |
+| Improving Language Understanding by Generative Pre-Training  | GPT                  |
+| BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding | BERT                 |
+| RoBERTa - A Robustly Optimized BERT Pretraining Approach     | RoBERTa              |
+| ALBERT - A Lite BERT for Self-supervised Learning of Language Representations | ALBERT               |
+| ELECTRA - Pre-training Text Encoders as Discriminators Rather Than Generators | ELECTRA              |
+| ERNIE - Enhanced Representation through Knowledge Integration | ERNIE(百度)          |
+| ERNIE 2.0 - A Continual Pre-training Framework for Language Understanding | ERNIE 2.0            |
+| ERNIE-GEN - An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation | ERNIE-GEN            |
+| ERNIE - Enhanced Language Representation with Informative Entities | ERNIE(清华)          |
+| Multi-Task Deep Neural Networks for Natural Language Understanding | MT-DNN               |
+| NEZHA - Neural Contextualized Representation for Chinese Language Understanding | NEZHA                |
+| Pre-Training with Whole Word Masking for Chinese BERT        | Chinese-BERT-wwm     |
+| Revisiting Pre-Trained Models for Chinese Natural Language Processing | MacBERT              |
+| SpanBERT - Improving Pre-training by Representing and Predicting Spans | SpanBERT             |
+| Don’t Stop Pretraining - Adapt Language Models to Domains and Tasks | continue pretraining |
+| How to Fine-Tune BERT for Text Classification?               | fine-tuning tips     |
+| Train No Evil - Selective Masking for Task-Guided Pre-Training | continue pretraining |
 
 ## RecSys
 
