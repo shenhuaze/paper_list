@@ -30,6 +30,7 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Don’t Stop Pretraining - Adapt Language Models to Domains and Tasks | continue pretraining |
 | How to Fine-Tune BERT for Text Classification?               | fine-tuning tips     |
 | Train No Evil - Selective Masking for Task-Guided Pre-Training | continue pretraining |
+| Layer Normalization                                          | Layer Normalization  |
 
 ## RecSys
 
