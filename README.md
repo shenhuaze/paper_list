@@ -31,6 +31,7 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | How to Fine-Tune BERT for Text Classification?               | fine-tuning tips     |
 | Train No Evil - Selective Masking for Task-Guided Pre-Training | continue pretraining |
 | Layer Normalization                                          | Layer Normalization  |
+| Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift | Batch Normalization  |
 
 ## RecSys
 
