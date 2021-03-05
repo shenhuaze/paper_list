@@ -1,7 +1,7 @@
 # Paper List
 Paper list of NLP, RecSys, Chatbot, and CV.
 
-
+[toc]
 
 ## NLP
 
