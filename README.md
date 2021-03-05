@@ -9,8 +9,6 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 
 [CV](#CV)
 
-
-
 ## NLP
 
 | 标题                                                         | 备注                                      |
