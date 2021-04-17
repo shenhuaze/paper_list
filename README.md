@@ -115,6 +115,10 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | ZeRO-Offload - Democratizing Billion-Scale Model Training    | ZeRO-Offload                              |
 | word2vec Explained - deriving Mikolov et al.'s negative-sampling word-embedding method | Explain word2vec                          |
 | word2vec Parameter Learning Explained                        | Explain word2vec                          |
+| MASS - Masked Sequence to Sequence Pre-training for Language Generation | MASS                                      |
+| Semi-supervised Sequence Learning                            | Pretraining and finetuning LSTM           |
+| Universal Language Model Fine-tuning for Text Classification | ULMFiT                                    |
+| Whitening Sentence Representations for Better Semantics and Faster Retrieval | BERT-whitening                            |
 
 ## RecSys
 
@@ -183,6 +187,10 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | PLATO-2 - Towards Building an Open-Domain Chatbot via Curriculum Learning | PLATO-2                                    |
 | Recipes for building an open-domain chatbot                  | Blender                                    |
 | Towards a Human-like Open-Domain Chatbot                     | Meena                                      |
+| A Multichannel Convolutional Neural Network For Cross-language Dialog State Tracking | DSTC5                                      |
+| A Survey on Dialogue Systems - Recent Advances and New Frontiers | Survey                                     |
+| CrossWOZ - A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ                                   |
+| Memory-augmented Dialogue Management for Task-oriented Dialogue Systems | MAD                                        |
 
 ## CV
 
