@@ -119,6 +119,55 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Semi-supervised Sequence Learning                            | Pretraining and finetuning LSTM           |
 | Universal Language Model Fine-tuning for Text Classification | ULMFiT                                    |
 | Whitening Sentence Representations for Better Semantics and Faster Retrieval | BERT-whitening                            |
+| A Joint Neural Model for Information Extraction with Global Features |                                           |
+| A Novel Cascade Binary Tagging Framework for Relational Triple Extraction |                                           |
+| A Self-Training Approach for Short Text Clustering           |                                           |
+| A Simple Framework for Contrastive Learning of Visual Representations |                                           |
+| A Survey of Deep Learning Methods for Relation Extraction    |                                           |
+| A Survey on Contextual Embeddings                            |                                           |
+| A Survey on Deep Learning for Named Entity Recognition       |                                           |
+| A Survey on Recent Advances in Named Entity Recognition from Deep Learning models |                                           |
+| A Survey on Text Classification - From Shallow to Deep Learning |                                           |
+| An overview of gradient descent optimization algorithms      |                                           |
+| CNN-Based Chinese NER with Lexicon Rethinking                |                                           |
+| Complex Relation Extraction - Challenges and Opportunities   |                                           |
+| ConSERT - A Contrastive Framework for Self-Supervised Sentence Representation Transfer | ConSERT                                   |
+| Convolutional Neural Networks for Sentence Classification    |                                           |
+| Decoupled Weight Decay Regularization                        |                                           |
+| Deep Learning Based Text Classification - A Comprehensive Review |                                           |
+| ERNIE-GEN - An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation |                                           |
+| End-to-End Relation Extraction using LSTMs on Sequences and Tree Structures |                                           |
+| Enhancement of Short Text Clustering by Iterative Classification |                                           |
+| Enriching Word Vectors with Subword Information              |                                           |
+| Extract then Distill - Efficient and Effective Task-Agnostic BERT Distillation |                                           |
+| FastText.zip - Compressing text classification models        |                                           |
+| Generating Long Sequences with Sparse Transformers           |                                           |
+| Hierarchical Multi-Label Classification Networks             |                                           |
+| Hierarchically-Refined Label Attention Network for Sequence Labeling |                                           |
+| I-BERT - Integer-only BERT Quantization                      | I-BERT                                    |
+| Incremental Joint Extraction of Entity Mentions and Relations |                                           |
+| Joint Entity and Relation Extraction with Set Prediction Networks |                                           |
+| Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme |                                           |
+| Knowledge Graphs                                             |                                           |
+| Large Batch Optimization for Deep Learning - Training BERT in 76 minutes |                                           |
+| Lexicon Enhanced Chinese Sequence Labeling Using BERT Adapter |                                           |
+| More Data, More Relations, More Context and More Openness - A Review and Outlook for Relation Extraction |                                           |
+| Poor Man's BERT - Smaller and Faster Transformer Models      |                                           |
+| Pre-training with Meta Learning for Chinese Word Segmentation |                                           |
+| Q8BERT - Quantized 8Bit BERT                                 |                                           |
+| Recent Advances and Challenges in Task-oriented Dialog System |                                           |
+| RethinkCWS - Is Chinese Word Segmentation a Solved Task?     |                                           |
+| Self-Taught Convolutional Neural Networks for Short Text Clustering |                                           |
+| SimCSE - Simple Contrastive Learning of Sentence Embeddings  | SimCSE                                    |
+| Simplify the Usage of Lexicon in Chinese NER                 |                                           |
+| Supervised Learning of Universal Sentence Representations from Natural Language Inference Data |                                           |
+| Supporting Clustering with Contrastive Learning              |                                           |
+| Transformers are RNNs - Fast Autoregressive Transformers with Linear Attention |                                           |
+| Universal Sentence Encoder                                   |                                           |
+| ZEN - Pre-training Chinese Text Encoder Enhanced by N-gram Representations |                                           |
+| fastHan - A BERT-based Joint Many-Task Toolkit for Chinese NLP | fastHan                                   |
+| ERNIE-Gram - Pre-Training with Explicitly N-Gram Masked Language Modeling for Natural Language Understanding | ERNIE-Gram                                |
+| MPNet - Masked and Permuted Pre-training for Language Understanding | MPNet                                     |
 
 ## RecSys
 
@@ -167,6 +216,13 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Structural Deep Network Embedding                            | SDNE                         |
 | Wide & Deep Learning for Recommender Systems                 | Wide & Deep                  |
 | node2vec - Scalable Feature Learning for Networks            | node2vec                     |
+| Embedding-based Retrieval in Facebook Search                 |                              |
+| Ensembled CTR Prediction via Knowledge Distillation          |                              |
+| Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts |                              |
+| Privileged Features Distillation at Taobao Recommendations   |                              |
+| Ranking Distillation - Learning Compact Ranking Models With High Performance for Recommender System |                              |
+| Rocket Launching - A Universal and Efficient Framework for Training Well-performing Light Net |                              |
+| XGBoost - A Scalable Tree Boosting System                    | XGBoost                      |
 
 ## Chatbot
 
@@ -191,6 +247,7 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | A Survey on Dialogue Systems - Recent Advances and New Frontiers | Survey                                     |
 | CrossWOZ - A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ                                   |
 | Memory-augmented Dialogue Management for Task-oriented Dialogue Systems | MAD                                        |
+| BERT-DST - Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer | BERT-DST                                   |
 
 ## CV
 
@@ -214,3 +271,8 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | Transformer in Transformer                                   | TNT               |
 | ViViT - A Video Vision Transformer                           | ViViT             |
 | Zero-Shot Text-to-Image Generation                           | DALL-E            |
+| Beyond Self-attention - External Attention using Two Linear Layers for Visual Tasks |                   |
+| Do You Even Need Attention? A Stack of Feed-Forward Layers Does Surprisingly Well on ImageNet |                   |
+| MLP-Mixer - An all-MLP Architecture for Vision               | MLP-Mixer         |
+| RepMLP - Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition | RepMLP            |
+| ResMLP - Feedforward networks for image classification with data-efficient training | ResMLP            |
