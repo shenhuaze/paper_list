@@ -248,6 +248,7 @@ Paper list of NLP, RecSys, Chatbot, and CV.
 | CrossWOZ - A Large-Scale Chinese Cross-Domain Task-Oriented Dialogue Dataset | CrossWOZ                                   |
 | Memory-augmented Dialogue Management for Task-oriented Dialogue Systems | MAD                                        |
 | BERT-DST - Scalable End-to-End Dialogue State Tracking with Bidirectional Encoder Representations from Transformer | BERT-DST                                   |
+| SUMBT - Slot-Utterance Matching for Universal and Scalable Belief Tracking | SUMBT                                      |
 
 ## CV
 
